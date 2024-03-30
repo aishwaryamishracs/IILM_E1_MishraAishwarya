@@ -1,6 +1,7 @@
 branch1
 commit1
 commmit2
+<<<<<<< HEAD
 commit3
 branch2
 commit4
@@ -33,3 +34,6 @@ D2
 =======
 commit5
 >>>>>>> branch2
+=======
+commit3
+>>>>>>> branch1
