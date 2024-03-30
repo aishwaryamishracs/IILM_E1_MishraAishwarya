@@ -10,6 +10,7 @@ C1
 C2
 C3
 C4
+<<<<<<< HEAD
 branch4
 D1
 D2
@@ -23,3 +24,8 @@ branch7
 B1
 B2
 >>>>>>> branch7
+=======
+branch5
+D1
+D2
+>>>>>>> branch5
